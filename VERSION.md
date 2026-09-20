@@ -1,20 +1,33 @@
-# Intelligence Version
+# Intelligence Version & Repository Sync
 
-## Current baseline
+## Current Intelligence Baseline
 
 `INTELLIGENCE-BASELINE-000`
 
-## Status
-
+### Status
 `FOUNDATIONAL / BASELINE-PENDING`
 
-## Versioning principle
+---
 
-The version identifies the state of the COS intelligence, not a software release.
+## Current Repository Sync Version
+
+`META-SYNC-001`
+
+### Status
+`ESTABLISHED / PERIMETER-GOVERNED`
+
+---
+
+## Versioning Principle
+
+$$\text{Repository Sync Version (META-SYNC-001)} \neq \text{Intelligence Baseline Version (INTELLIGENCE-BASELINE-000)}$$
+
+1. **Repository Sync Version:** Identifies the formal state of cross-repository synchronization, contracts, and artifact ownership.
+2. **Intelligence Baseline:** Identifies the demonstrated cognitive and learning maturity of the COS.
 
 A new intelligence baseline requires evidence that the previous baseline has evolved through an authorized and verifiable process.
 
-## Baseline transition
+## Baseline Transition Sequence
 
 ```text
 CURRENT BASELINE

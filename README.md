@@ -133,3 +133,11 @@ Solo después de demostrar que el componente existente no puede satisfacer la ne
 **Baseline:** pendiente de establecer mediante evidencia y checkpoint propio del dominio.
 
 **OVR global:** no modificado por la creación de este dominio.
+
+## Sincronización y Perímetro de Repositorio
+
+El perímetro y las reglas de correspondencia entre este repositorio y el resto del ecosistema COS están formalizados en el contrato canónico:
+
+👉 [`META-SYNC-MANIFEST-v1.md`](file:///C:/Users/Admin/Downloads/-METAINTELIGENCIA-DOMAIN/META-SYNC-MANIFEST-v1.md) (`META-SYNC-001`).
+
+> **Regla de Invarianza:** La versión de sincronización del repositorio (`META-SYNC-001`) no avanza ni sustituye a la `INTELLIGENCE-BASELINE-000`.
